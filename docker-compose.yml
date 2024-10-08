@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  user-service:
+    build: ./services/user
+    ports:
+      - "50051:50051"
+  order-service:
+    build: ./services/order
+    ports:
+      - "50052:50052"
