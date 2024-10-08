@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"github.com/galedetail/go-microservices/api/user"
+	"github.com/GaleDetail/go-microservices/api/user"
 	"log"
 	"net"
 

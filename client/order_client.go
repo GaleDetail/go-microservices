@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/galedetail/go-microservices/api/order"
+	"github.com/GaleDetail/go-microservices/api/order"
 	"log"
 	"time"
 
